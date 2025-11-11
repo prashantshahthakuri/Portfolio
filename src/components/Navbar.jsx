@@ -7,6 +7,7 @@ export default function Navbar() {
 
   const menuItems = [
     { id: "about",   label: "About"   },
+    {id:"skills", label: "Skills"},
     { id: "project", label: "Project" },
     { id: "contact", label: "Contact" },
   ];
