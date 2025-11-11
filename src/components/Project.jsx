@@ -16,7 +16,7 @@ function Project() {
     >
         
       <div className="text-center mb-16">
-        <h2 className="text-4xl font-bold text-white">Projects</h2>
+        <h2 className="text-4xl font-bold text-white">Project</h2>
         <div className="w-32 h-1 bg-blue-500 mx-auto mt-4" />
       </div>
 
