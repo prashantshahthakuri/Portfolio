@@ -7,6 +7,12 @@ function Project() {
             title:"ToDo-List",
             description:"This is my first project using React Js and Css.",
             github:"https://github.com/prashantshahthakuri/To-Do-List"
+        },
+        {
+          id: 2,
+          title: "Real Estate",
+          description: "This Real Estate Dashboard project is developed using React.js for building a dynamic and interactive user interface and styled with Tailwind CSS.",
+          github: "https://github.com/prashantshahthakuri/Real-Estate"
         }
     ]
   return (
