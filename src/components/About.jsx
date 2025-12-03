@@ -24,7 +24,7 @@ function About () {
                 </p>
             </div>
             <div className="md:w-1/2 flex justify-center md:justify-end ">
-            <img src={avatarImg} alt="Prashant Thakuri" 
+            <img src={avatarImg} alt="Prashant Bikram Shah" 
             className="w-60 h-60 rounded-full object-cover "
             />
             </div>
