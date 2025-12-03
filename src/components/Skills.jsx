@@ -18,6 +18,13 @@ function Skills() {
             <li>Tailwind CSS</li>
           </ul>
         </li>
+        <li>
+          <span className="font-semibold text-center text-blue-300">Tools: </span>
+          <ul className="ml-5 list-disc list-inside">
+            <li>Github</li>
+            <li>Vercel</li>
+          </ul>
+        </li>
       </ul>
     </section>
   );
