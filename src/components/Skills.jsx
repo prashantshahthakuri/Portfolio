@@ -20,7 +20,7 @@ function Skills() {
         </li>
         <li>
           <span className="font-semibold text-center text-blue-300">Tools: </span>
-          <ul className="ml-5 list-disc list-inside">
+          <ul className="ml-5 list-disc list-inside tecred">
             <li>Github</li>
             <li>Vercel</li>
           </ul>
