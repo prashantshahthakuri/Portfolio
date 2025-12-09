@@ -32,11 +32,11 @@ function Project() {
             key={p.id}
             className="group bg-blue-900 rounded-xl p-6  transition-all duration-300 "
           >
-            <h3 className="text-2xl font-semibold text-cyan-400 mb-3">
+            <h3 className="text-2xl font-bold text-cyan-400 mb-3">
               {p.title}
             </h3>
 
-            <p className="text-gray-300 text-sm mb-5 leading-relaxed">
+            <p className="text-gray-300 font-semibold text-sm mb-5 leading-relaxed">
               {p.description}
             </p>
 
