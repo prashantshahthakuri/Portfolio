@@ -13,7 +13,7 @@ function Contact() {
       className="text-white py-8 px-[12vw] md:px-[7vw] lg:px-[20vw]"
     >
       <div className="container mx-auto text-center">
-        <h2 className="text-xl font-semibold text-red-800">
+        <h2 className="text-xl font-semibold text-red-700">
           Prashant Bikram Shah
         </h2>
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
